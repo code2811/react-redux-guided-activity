@@ -1,7 +1,3 @@
-
-README.md
-
-100%
 # **React Guided Learning Activity: Redux State Management (Without Redux Toolkit)**
 
 **Title:** Setting Up Redux with React & TypeScript
@@ -247,4 +243,3 @@ export default App;
    Create another reducer for managing user authentication.
 
 ---
-Displaying README.md.
