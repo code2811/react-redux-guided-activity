@@ -1,4 +1,5 @@
 .counterContainer {
+  color: #111;
   display: flex;
   flex-direction: column;
   align-items: center;
